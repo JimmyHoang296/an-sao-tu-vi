@@ -1,0 +1,362 @@
+{
+  "Canh Ngọ": {
+    "Ngũ hành": "Dương Thổ",
+    "Mệnh": "Lộ bàng thổ",
+    "Nam mệnh": "Đoài Kim",
+    "Nữ mệnh": "Cấn Thổ"
+  },
+  "Tân Mùi": {
+    "Ngũ hành": "Âm Thổ",
+    "Mệnh": "Lộ bàng thổ",
+    "Nam mệnh": "Càn Kim",
+    "Nữ mệnh": "Ly Hỏa"
+  },
+  "Nhâm Thân": {
+    "Ngũ hành": "Dương Kim",
+    "Mệnh": "Kiếm phong kim (Vàng mũi kiếm)",
+    "Nam mệnh": "Khôn Thổ",
+    "Nữ mệnh": "Khảm Thủy"
+  },
+  "Quý Dậu": {
+    "Ngũ hành": "Âm Kim",
+    "Mệnh": "Kiếm phong kim (Vàng mũi kiếm)",
+    "Nam mệnh": "Tốn Mộc",
+    "Nữ mệnh": "Khôn Thổ"
+  },
+  "Giáp Tuất": {
+    "Ngũ hành": "Dương Hỏa",
+    "Mệnh": "Sơn Đầu Hỏa",
+    "Nam mệnh": "Chấn Mộc",
+    "Nữ mệnh": "Chấn Mộc"
+  },
+  "Ất Hợi": {
+    "Ngũ hành": "Âm Hỏa",
+    "Mệnh": "Sơn Đầu Hỏa (lửa trên núi)",
+    "Nam mệnh": "Khôn Thổ",
+    "Nữ mệnh": "Tốn Mộc"
+  },
+  "Bính Tý": {
+    "Ngũ hành": "Dương Thủy",
+    "Mệnh": "Giản Hạ Thủy (Nước khe suối)",
+    "Nam mệnh": "Khảm Thủy",
+    "Nữ mệnh": "Khôn Thổ"
+  },
+  "Đinh Sửu": {
+    "Ngũ hành": "Âm Thủy",
+    "Mệnh": "Giản Hạ Thủy (Nước khe suối)",
+    "Nam mệnh": "Ly Hỏa",
+    "Nữ mệnh": "Càn Kim"
+  },
+  "Mậu Dần": {
+    "Ngũ hành": "Dương Thổ",
+    "Mệnh": "Thành Đầu Thổ (Đất trên thành)",
+    "Nam mệnh": "Cấn Thổ",
+    "Nữ mệnh": "Đoài Kim"
+  },
+  "Kỷ Mão": {
+    "Ngũ hành": "Âm Thổ",
+    "Mệnh": "Thành Đầu Thổ (Đất trên thành)",
+    "Nam mệnh": "Đoài Kim",
+    "Nữ mệnh": "Cấn Thổ"
+  },
+  "Canh Thìn": {
+    "Ngũ hành": "Dương Kim",
+    "Mệnh": "Bạch Lạp Kim (Vàng sáp ong)",
+    "Nam mệnh": "Càn Kim",
+    "Nữ mệnh": "Ly Hỏa"
+  },
+  "Tân Tỵ": {
+    "Ngũ hành": "Âm Kim",
+    "Mệnh": "Bạch Lạp Kim (Vàng sáp ong)",
+    "Nam mệnh": "Khôn Thổ",
+    "Nữ mệnh": "Khảm Thủy"
+  },
+  "Nhâm Ngọ": {
+    "Ngũ hành": "Dương Mộc",
+    "Mệnh": "Dương Liễu Mộc (Gỗ cây dương)",
+    "Nam mệnh": "Tốn Mộc",
+    "Nữ mệnh": "Khôn Thổ"
+  },
+  "Quý Mùi": {
+    "Ngũ hành": "Âm Mộc",
+    "Mệnh": "Dương Liễu Mộc (Gỗ cây dương)",
+    "Nam mệnh": "Chấn Mộc",
+    "Nữ mệnh": "Chấn Mộc"
+  },
+  "Giáp Thân": {
+    "Ngũ hành": "Dương Thủy",
+    "Mệnh": "Tuyền Trung Thủy (Nước trong suối)",
+    "Nam mệnh": "Khôn Thổ",
+    "Nữ mệnh": "Tốn Mộc"
+  },
+  "Ất Dậu": {
+    "Ngũ hành": "Âm Thủy",
+    "Mệnh": "Tuyền Trung Thủy (Nước trong suối)",
+    "Nam mệnh": "Khảm Thủy",
+    "Nữ mệnh": "Khôn Thổ"
+  },
+  "Bính Tuất": {
+    "Ngũ hành": "Dương Thổ",
+    "Mệnh": "Ốc Thượng Thổ (Đất nóc nhà)",
+    "Nam mệnh": "Ly Hỏa",
+    "Nữ mệnh": "Càn Kim"
+  },
+  "Đinh Hợi": {
+    "Ngũ hành": "Âm Thổ",
+    "Mệnh": "Ốc Thượng Thổ (Đất nóc nhà)",
+    "Nam mệnh": "Cấn Thổ",
+    "Nữ mệnh": "Đoài Kim"
+  },
+  "Mậu Tý": {
+    "Ngũ hành": "Dương Hỏa",
+    "Mệnh": "Thích Lịch Hỏa (Lửa sấm sét)",
+    "Nam mệnh": "Đoài Kim",
+    "Nữ mệnh": "Cấn Thổ"
+  },
+  "Kỷ Sửu": {
+    "Ngũ hành": "Dương Hỏa",
+    "Mệnh": "Thích Lịch Hỏa (Lửa sấm sét)",
+    "Nam mệnh": "Càn Kim",
+    "Nữ mệnh": "Ly Hỏa"
+  },
+  "Canh Dần": {
+    "Ngũ hành": "Dương Mộc",
+    "Mệnh": "Tùng Bách Mộc (Gỗ cây tùng)",
+    "Nam mệnh": "Khôn Thổ",
+    "Nữ mệnh": "Khảm Thủy"
+  },
+  "Tân Mão": {
+    "Ngũ hành": "Âm Mộc",
+    "Mệnh": "Tùng Bách Mộc (Gỗ cây tùng)",
+    "Nam mệnh": "Tốn Mộc",
+    "Nữ mệnh": "Khôn Thổ"
+  },
+  "Nhâm Thìn": {
+    "Ngũ hành": "Dương Thủy",
+    "Mệnh": "Trường Lưu Thủy (Nước chảy mạnh)",
+    "Nam mệnh": "Chấn Mộc",
+    "Nữ mệnh": "Chấn Mộc"
+  },
+  "Quý Tỵ": {
+    "Ngũ hành": "Âm Thủy",
+    "Mệnh": "Trường Lưu Thủy (Nước chảy mạnh)",
+    "Nam mệnh": "Khôn Thổ",
+    "Nữ mệnh": "Tốn Mộc"
+  },
+  "Giáp Ngọ": {
+    "Ngũ hành": "Dương Kim",
+    "Mệnh": "Sa Trung Kim (Vàng trong cát)",
+    "Nam mệnh": "Khảm Thủy",
+    "Nữ mệnh": "Khôn Thổ"
+  },
+  "Ất Mùi": {
+    "Ngũ hành": "Âm Kim",
+    "Mệnh": "Sa Trung Kim (Vàng trong cát)",
+    "Nam mệnh": "Ly Hỏa",
+    "Nữ mệnh": "Càn Kim"
+  },
+  "Bính Thân": {
+    "Ngũ hành": "Dương Hỏa",
+    "Mệnh": "Sơn Hạ Hỏa (Lửa trên núi)",
+    "Nam mệnh": "Cấn Thổ",
+    "Nữ mệnh": "Đoài Kim"
+  },
+  "Đinh Dậu": {
+    "Ngũ hành": "Âm Hỏa",
+    "Mệnh": "Sơn Hạ Hỏa (Lửa trên núi)",
+    "Nam mệnh": "Đoài Kim",
+    "Nữ mệnh": "Cấn Thổ"
+  },
+  "Mậu Tuất": {
+    "Ngũ hành": "Dương Mộc",
+    "Mệnh": "Bình Địa Mộc (Gỗ đồng bằng)",
+    "Nam mệnh": "Càn Kim",
+    "Nữ mệnh": "Ly Hỏa"
+  },
+  "Kỷ Hợi": {
+    "Ngũ hành": "Âm Mộc",
+    "Mệnh": "Bình Địa Mộc (Gỗ đồng bằng)",
+    "Nam mệnh": "Khôn Thổ",
+    "Nữ mệnh": "Khảm Thủy"
+  },
+  "Canh Tý": {
+    "Ngũ hành": "Dương Thổ",
+    "Mệnh": "Bích Thượng Thổ (Đất trên tường)",
+    "Nam mệnh": "Tốn Mộc",
+    "Nữ mệnh": "Khôn Thổ"
+  },
+  "Tân Sửu": {
+    "Ngũ hành": "Âm Thổ",
+    "Mệnh": "Bích Thượng Thổ (Đất trên tường)",
+    "Nam mệnh": "Chấn Mộc",
+    "Nữ mệnh": "Chấn Mộc"
+  },
+  "Nhâm Dần": {
+    "Ngũ hành": "Dương Kim",
+    "Mệnh": "Kim Bạch Kim (Vàng pha bạc)",
+    "Nam mệnh": "Khôn Thổ",
+    "Nữ mệnh": "Tốn Mộc"
+  },
+  "Quý Mão": {
+    "Ngũ hành": "Âm Kim",
+    "Mệnh": "Kim Bạch Kim (Vàng pha bạc)",
+    "Nam mệnh": "Khảm Thủy",
+    "Nữ mệnh": "Khôn Thổ"
+  },
+  "Giáp Thìn": {
+    "Ngũ hành": "Dương Hỏa",
+    "Mệnh": "Phú Đăng Hỏa (Lửa đèn to)",
+    "Nam mệnh": "Ly Hỏa",
+    "Nữ mệnh": "Càn Kim"
+  },
+  "Ất Tỵ": {
+    "Ngũ hành": "Âm Hỏa",
+    "Mệnh": "Phú Đăng Hỏa (Lửa đèn to)",
+    "Nam mệnh": "Cấn Thổ",
+    "Nữ mệnh": "Đoài Kim"
+  },
+  "Bính Ngọ": {
+    "Ngũ hành": "Dương Thủy",
+    "Mệnh": "Thiên Hà Thủy (Nước trên trời)",
+    "Nam mệnh": "Đoài Kim",
+    "Nữ mệnh": "Cấn Thổ"
+  },
+  "Đinh Mùi": {
+    "Ngũ hành": "Âm Thủy",
+    "Mệnh": "Thiên Hà Thủy (Nước trên trời)",
+    "Nam mệnh": "Càn Kim",
+    "Nữ mệnh": "Ly Hỏa"
+  },
+  "Mậu Thân": {
+    "Ngũ hành": "Dương Thổ",
+    "Mệnh": "Đại Trạch Thổ (Đất nền nhà)",
+    "Nam mệnh": "Khôn Thổ",
+    "Nữ mệnh": "Khảm Thủy"
+  },
+  "Kỷ Dậu": {
+    "Ngũ hành": "Âm Thổ",
+    "Mệnh": "Đại Trạch Thổ (Đất nền nhà)",
+    "Nam mệnh": "Tốn Mộc",
+    "Nữ mệnh": "Khôn Thổ"
+  },
+  "Canh Tuất": {
+    "Ngũ hành": "Dương Kim",
+    "Mệnh": "Thoa Xuyến Kim (Vàng trang sức)",
+    "Nam mệnh": "Chấn Mộc",
+    "Nữ mệnh": "Chấn Mộc"
+  },
+  "Tân Hợi": {
+    "Ngũ hành": "Âm Kim",
+    "Mệnh": "Thoa Xuyến Kim (Vàng trang sức)",
+    "Nam mệnh": "Khôn Thổ",
+    "Nữ mệnh": "Khôn Thổ"
+  },
+  "Nhâm Tý": {
+    "Ngũ hành": "Dương Mộc",
+    "Mệnh": "Tang Đố Mộc (Gỗ cây dâu)",
+    "Nam mệnh": "Khảm Thủy",
+    "Nữ mệnh": "Khôn Thổ"
+  },
+  "Quý Sửu": {
+    "Ngũ hành": "Âm Mộc",
+    "Mệnh": "Tang Đố Mộc (Gỗ cây dâu)",
+    "Nam mệnh": "Ly Hỏa",
+    "Nữ mệnh": "Càn Kim"
+  },
+  "Giáp Dần": {
+    "Ngũ hành": "Dương Thủy",
+    "Mệnh": "Đại Khe Thủy (Nước khe lớn)",
+    "Nam mệnh": "Cấn Thổ",
+    "Nữ mệnh": "Đoài Kim"
+  },
+  "Ất Mão": {
+    "Ngũ hành": "Âm Thủy",
+    "Mệnh": "Đại Khe Thủy (Nước khe lớn)",
+    "Nam mệnh": "Đoài Kim",
+    "Nữ mệnh": "Cấn Thổ"
+  },
+  "Bính Thìn": {
+    "Ngũ hành": "Dương Thổ",
+    "Mệnh": "Sa Trung Thổ (Đất pha cát)",
+    "Nam mệnh": "Càn Kim",
+    "Nữ mệnh": "Ly Hỏa"
+  },
+  "Đinh Tỵ": {
+    "Ngũ hành": "Âm Thổ",
+    "Mệnh": "Sa Trung Thổ (Đất pha cát)",
+    "Nam mệnh": "Khôn Thổ",
+    "Nữ mệnh": "Khảm Thủy"
+  },
+  "Mậu Ngọ": {
+    "Ngũ hành": "Dương Hỏa",
+    "Mệnh": "Thiên Thượng Hỏa (Lửa trên trời)",
+    "Nam mệnh": "Tốn Mộc",
+    "Nữ mệnh": "Khôn Thổ"
+  },
+  "Kỷ Mùi": {
+    "Ngũ hành": "Âm Hỏa",
+    "Mệnh": "Thiên Thượng Hỏa (Lửa trên trời)",
+    "Nam mệnh": "Chấn Mộc",
+    "Nữ mệnh": "Chấn Mộc"
+  },
+  "Canh Thân": {
+    "Ngũ hành": "Dương Mộc",
+    "Mệnh": "Thạch Lựu Mộc (Gỗ cây lựu đá)",
+    "Nam mệnh": "Khôn Thổ",
+    "Nữ mệnh": "Tốn Mộc"
+  },
+  "Tân Dậu": {
+    "Ngũ hành": "Âm Mộc",
+    "Mệnh": "Thạch Lựu Mộc (Gỗ cây lựu đá)",
+    "Nam mệnh": "Khảm Thủy",
+    "Nữ mệnh": "Khôn Thổ"
+  },
+  "Nhâm Tuất": {
+    "Ngũ hành": "Dương Thủy",
+    "Mệnh": "Đại Hải Thủy (Nước biển lớn)",
+    "Nam mệnh": "Ly Hỏa",
+    "Nữ mệnh": "Càn Kim"
+  },
+  "Quý Hợi": {
+    "Ngũ hành": "Âm Thủy",
+    "Mệnh": "Đại Hải Thủy (Nước biển lớn)",
+    "Nam mệnh": "Cấn Thổ",
+    "Nữ mệnh": "Đoài Kim"
+  },
+  "Giáp Tý": {
+    "Ngũ hành": "Dương Kim",
+    "Mệnh": "Hải Trung Kim (Vàng trong biển)",
+    "Nam mệnh": "Đoài Kim",
+    "Nữ mệnh": "Cấn Thổ"
+  },
+  "Ất Sửu": {
+    "Ngũ hành": "Âm Kim",
+    "Mệnh": "Hải Trung Kim (Vàng trong biển)",
+    "Nam mệnh": "Càn Kim",
+    "Nữ mệnh": "Ly Hỏa"
+  },
+  "Bính Dần": {
+    "Ngũ hành": "Dương Hỏa",
+    "Mệnh": "Lư Trung Hỏa (Lửa trong lò)",
+    "Nam mệnh": "Khôn Thổ",
+    "Nữ mệnh": "Khảm Thủy"
+  },
+  "Đinh Mão": {
+    "Ngũ hành": "Âm Hỏa",
+    "Mệnh": "Lư Trung Hỏa (Lửa trong lò)",
+    "Nam mệnh": "Tốn Mộc",
+    "Nữ mệnh": "Khôn Thổ"
+  },
+  "Mậu Thìn": {
+    "Ngũ hành": "Dương Mộc",
+    "Mệnh": "Đại Lâm Mộc (Gỗ rừng già)",
+    "Nam mệnh": "Chấn Mộc",
+    "Nữ mệnh": "Chấn Mộc"
+  },
+  "Kỷ Tỵ": {
+    "Ngũ hành": "Âm Mộc",
+    "Mệnh": "Đại Lâm Mộc (Gỗ rừng già)",
+    "Nam mệnh": "Khôn Thổ",
+    "Nữ mệnh": "Tốn Mộc"
+  }
+}
